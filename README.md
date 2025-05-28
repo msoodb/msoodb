@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi
 I'm **Masoud Bolhassani (msoodb)** — a passionate C developer focused on embedded systems, low-level programming, and system tools.
 
 - 🔭 I’m currently working on **Belfhym** (a modular embedded system for autonomous drones and lunar rovers) and **Trafix** (a Linux network traffic analysis tool).
