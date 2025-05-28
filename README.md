@@ -6,6 +6,6 @@ I'm **Masoud Bolhassani (msoodb)** — a passionate C developer focused on embed
 - I’m currently deepening my expertise in embedded firmware design and real-time systems.
 - I’m also the author of a book available on Amazon: [Modern Cryptology](https://a.co/d/iHDMVmH)
 - Ask me about: STM32, FreeRTOS, CMSIS, Linux systems programming, or network tools.
-- How to reach me: [GitHub](https://github.com/msoodb) or [my website](https://www.linkedin.com/in/msoodb).
+- How to reach me: [GitHub](https://github.com/msoodb) or [Linkedin](https://www.linkedin.com/in/msoodb).
 - Fun fact: I love making lightweight, efficient C code that talks directly to hardware!
   
